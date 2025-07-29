@@ -54,4 +54,9 @@
 			padding: 12px 0;
 		}
 	}
+	
+	/* Override default background */
+	:global(body) {
+		background: white;
+	}
 </style>
